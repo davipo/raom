@@ -1,0 +1,16 @@
+
+
+
+form div {
+    margin: 1em 0.5em;
+}
+
+form input {
+    margin: 1em 0.5em;
+}
+
+
+form select {
+    margin: 1em 0.5em;
+    width: 10em;
+}
