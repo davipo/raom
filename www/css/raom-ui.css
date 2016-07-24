@@ -9,8 +9,12 @@ form input {
     margin: 1em 0.5em;
 }
 
-
 form select {
     margin: 1em 0.5em;
     width: 10em;
+}
+
+
+#end_time_2 {
+    visibility: hidden;
 }
